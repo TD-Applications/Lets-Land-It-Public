@@ -3,6 +3,9 @@
 # Lets-Land-It-Public
 A website for automatically highlighting the key areas of your resume as they relate to a specific job posting.
 
+<img width="926" height="383" alt="Capture1" src="https://github.com/user-attachments/assets/c8092321-ce3c-4718-9b96-73b164de17e8" />
+<img width="927" height="359" alt="Capture2" src="https://github.com/user-attachments/assets/c5c655a6-ff64-4793-bdad-91d1fe7f38d0" />
+<img width="928" height="372" alt="Capture3" src="https://github.com/user-attachments/assets/6550dd40-38a9-4fe6-9599-6750ac2f744f" />
 
 Land-It
 
